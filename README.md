@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Swagata Dutta 👋
 
-<!--
-**swagatadutta26/swagatadutta26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Tech CSBS Student at Techno India University
 
-Here are some ideas to get you started:
+🌱 Currently Learning
+- Data Science
+- Artificial Intelligence
+- Machine Learning
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills
+- Python
+- SQL
+- Pandas
+- NumPy
+- HTML
+- CSS
+
+🚀 Interested In
+- Data Science
+- AI & Machine Learning
+- Software Development
+
+📚 Current Project
+- End-to-End Image Understanding
+
+📫 Reach Me
+- Email: swagatadutta6883@gmail.com
+
+✨ Fun Fact
+I love learning new technologies and building projects.
