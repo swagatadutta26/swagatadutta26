@@ -22,7 +22,9 @@
 - Software Development
 
 📚 Current Project
+🔭 Currently Working On
 - End-to-End Image Understanding
+- Data Science & AI Projects
 
 📫 Reach Me
 - Email: swagatadutta6883@gmail.com
